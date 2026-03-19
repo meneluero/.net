@@ -1,0 +1,11 @@
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\bin\Debug\net10.0\MyLibrary.deps.json
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\bin\Debug\net10.0\MyLibrary.dll
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\bin\Debug\net10.0\MyLibrary.pdb
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfo.cs
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\MyLibrary.dll
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\refint\MyLibrary.dll
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\MyLibrary.pdb
+C:\Users\menel\MultiProjectNuGetDemo\MyLibrary\obj\Debug\net10.0\ref\MyLibrary.dll

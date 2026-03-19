@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nH/SQEZI/o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\menel\\MultiProjectNuGetDemo\\MyApp\\MyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\menel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.3\\microsoft.extensions.dependencyinjection.10.0.3.nupkg.sha512",
+    "C:\\Users\\menel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.3\\microsoft.extensions.dependencyinjection.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\menel\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
