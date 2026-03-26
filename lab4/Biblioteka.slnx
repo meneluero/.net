@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BibliotekaApp/BibliotekaApp.csproj" />
+  <Project Path="BibliotekaTests/BibliotekaTests.csproj" />
+</Solution>
